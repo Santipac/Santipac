@@ -13,6 +13,9 @@ const Me = {
 ## About
 #### I'm a Frontend Developer JR and self-taught student who is passionate about Programming. I'm currently looking for my first job as a developer but I know that with hard work and perseverance I can get it. My interest is in creating technology that contributes to the community and makes people's lives easier.
 
+### Currently, learning React JS.
+
+
 ## Goals 2022
 - Get my first job.
 - Become a Full-stack Developer.
