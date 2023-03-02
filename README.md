@@ -28,7 +28,7 @@ const Me = {
 #### I'm a Full-Stack Developer and self-taught student who is passionate about Programming. I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santipac&show_icons=true&theme=github_dark)
-#### Currently, learning Typescript and improving my knowledge in MERN Stack.
+#### Currently, learning everyday like any great developer.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Santipac&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
