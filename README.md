@@ -4,9 +4,9 @@ const Me = {
   Name: "Santiago",
   Age: 20,
   From: "Puerto Madryn, Chubut, Argentina",
-  Profession: "Full-Stack Developer",
+  Profession: "Frontend Developer",
   Skills: {
-    Frontend: ["HTML", "CSS", "Javascript", "React JS", "Redux",  "Sass", "Tailwind", "Next JS" ],
+    Frontend: ["HTML", "CSS", "Javascript", "React JS", "Redux",  "Sass", "Tailwind", "Next JS", "Typescript" ],
     Backend: ["Node JS", "Express", "Typescript", "MongoDB", "Mongoose", "Firebase" , "PostgreSQL", "Prisma"],
     Tools: ["Git", "Figma", "Postman", "VSCode"]
   }
@@ -25,7 +25,7 @@ const Me = {
 </a>  
 </div> 
 
-### I'm a Full-Stack Developer and self-taught student who is passionate about Programming.
+### I'm a Frontend Developer and self-taught student who is passionate about Programming.
 ### I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Santipac&show_icons=true&theme=github_dark)
