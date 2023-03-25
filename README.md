@@ -6,8 +6,8 @@ const Me = {
   From: "Puerto Madryn, Chubut, Argentina",
   Profession: "Frontend Developer",
   Skills: {
-    Languages: [ "HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
-    Frontend: [ "React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion", "SWR"  ],
+    Languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
+    Frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion", "SWR"],
     Backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "PostgreSQL", "Prisma"],
     Tools: ["Git", "Figma", "Postman", "VSCode"]
   }
