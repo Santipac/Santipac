@@ -7,8 +7,8 @@ const Me = {
   profession: "Frontend Developer",
   skills: {
     Languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
-    Frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion", "SWR"],
-    Backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "PostgreSQL", "Prisma"],
+    Frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion"],
+    Backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "tRPC", "Prisma"],
     Tools: ["Git", "Figma", "Postman", "VSCode"]
   }
 }
