@@ -1,15 +1,15 @@
 # Console.log("Hello World!")👋
 ```javascript
-const Me = {
+const ABOUT_ME = {
   name: "Santiago",
   age: 20,
   from: "Argentina",
   profession: "Frontend Developer",
   skills: {
-    Languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
-    Frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion"],
-    Backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "tRPC", "Prisma"],
-    Tools: ["Git", "Figma", "Postman", "VSCode"]
+   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
+    frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion"],
+    backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "tRPC", "Prisma"],
+    tools: ["Git", "Figma", "Postman", "VSCode"]
   }
 }
 ```
