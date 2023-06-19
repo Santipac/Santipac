@@ -23,5 +23,5 @@ const ABOUT_ME = {
 </a>  
 </div> 
 
-### I'm a Frontend Developer and self-taught student who is passionate about Programming.
+### I'm a Frontend Developer with extensive knowledge in Full-stack development and self-taught student who is passionate about Programming.
 #### I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
