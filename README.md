@@ -14,6 +14,12 @@ const ABOUT_ME = {
 }
 ```
 ## About
+
+
+I'm a Frontend Developer with extensive knowledge in Full-stack development and self-taught student who is passionate about Programming.
+
+I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
+
 <div align="left">
 <a href="https://www.linkedin.com/in/santiagopacinidev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -22,6 +28,3 @@ const ABOUT_ME = {
 <img src=https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div> 
-
-### I'm a Frontend Developer with extensive knowledge in Full-stack development and self-taught student who is passionate about Programming.
-#### I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
