@@ -23,8 +23,5 @@ I'm currently looking for new challenges. My interest is in creating technology 
 <div align="left">
 <a href="https://www.linkedin.com/in/santiagopacinidev" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  <a href="https://santiagopacini.vercel.app" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+</a>   
 </div> 
