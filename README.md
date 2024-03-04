@@ -1,23 +1,22 @@
-# Console.log("Hello World!")👋
-```javascript
-const ABOUT_ME = {
-  name: "Santiago",
-  age: 20,
-  from: "Argentina",
-  profession: "Frontend Developer",
-  skills: {
-   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Sass" ],
-    frontend: ["React JS", "Next JS", "Redux", "TailwindCSS", "MaterialUI", "Bootstrap", "ChakraUI", "Framer Motion"],
-    backend: ["Node JS", "Express", "MongoDB", "Mongoose", "Firebase" , "tRPC", "Prisma"],
-    tools: ["Git", "Figma", "Postman", "VSCode"]
-  }
-}
-```
-## About
+
+I'm **Santiago Pacini**, a frontend developer with an extensive knowledge in Full-Stack development. Interested in user experience, software engineering, and design topics. My goal is to create simple, user-friendly, and faster applications!
 
 
-I'm a Frontend Developer with extensive knowledge in Full-stack development and self-taught student who is passionate about Programming.
+- 🔭 I’m currently building a **web application** for my startup.
+- 🌱 I’m currently learning about **React Native** and **User Experience**.
+- 💬 You can ask me about **web development** or specific tech stack, for ex. Node, Nest.js, React, Next, and Astro.
+- If you have a project related to **design** or **development**, you can contact me via email.
+- 📫 How to reach me: Send me an email to devpacinisanti@gmail.com.
 
+
+
+### My product tech stack is:
+- **Backend:** Node.js, Nest.js, PrismaORM.
+- **Frontend:** HTML, CSS, SASS, React, Zustand, TailwindCSS, MaterialUI, Next.js, Astro, Figma.
+- **Mobile:** React Native, Reanimated.
+- **Programming Languages:** JavaScript, TypeScript.
+
+If you're curious about my tech stack and the tools I use daily, you can visit my [uses](https://santiagopacini.vercel.app/about) page.
 I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
 
 <div align="left">
