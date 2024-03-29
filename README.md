@@ -12,9 +12,10 @@ I'm **Santiago Pacini**, a frontend developer with an extensive knowledge in Ful
 
 ### My product tech stack is:
 - **Backend:** Node.js, Nest.js, PrismaORM.
-- **Frontend:** HTML, CSS, SASS, React, Zustand, TailwindCSS, MaterialUI, Next.js, Astro, Figma.
+- **Frontend:** HTML, CSS, SASS, React, Zustand, TailwindCSS, MaterialUI, Next.js, Astro.
 - **Mobile:** React Native, Reanimated.
 - **Programming Languages:** JavaScript, TypeScript.
+- **Tools:** Git, VSCode, Docker, Figma
 
 If you're curious about my tech stack and the tools I use daily, you can visit my [uses](https://santiagopacini.vercel.app/about) page.
 I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
