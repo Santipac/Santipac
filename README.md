@@ -11,9 +11,9 @@ I'm **Santiago Pacini**, a frontend developer with an extensive knowledge in Ful
 
 
 ### My product tech stack is:
-- **Backend:** Node.js, Nest.js, PrismaORM.
 - **Frontend:** HTML, CSS, SASS, React, Zustand, TailwindCSS, MaterialUI, Next.js, Astro.
 - **Mobile:** React Native, Reanimated.
+- **Backend:** Node.js, Nest.js, PrismaORM.
 - **Programming Languages:** JavaScript, TypeScript.
 - **Tools:** Git, VSCode, Docker, Figma
 
