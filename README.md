@@ -17,7 +17,7 @@ I'm **Santiago Pacini**, a frontend developer with an extensive knowledge in Ful
 - **Programming Languages:** JavaScript, TypeScript.
 - **Tools:** Git, VSCode, Docker, Figma
 
-If you're curious about my tech stack and the tools I use daily, you can visit my [uses](https://santiagopacini.vercel.app/about) page.
+If you're curious about my tech stack and the tools I use daily, you can visit my [uses](https://santiagopacini.com) page.
 I'm currently looking for new challenges. My interest is in creating technology that contributes to the community and makes people's lives easier.
 
 <div align="left">
